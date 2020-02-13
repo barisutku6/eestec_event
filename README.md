@@ -4,6 +4,8 @@ Tomi - https://tomislav-ficko.github.io/Personal-website/Personal%20website/inde
 
 https://utkcm.github.io/blog/Project/
 
+https://barisutku6.github.io/My_Blog/mrPersonalPage/Workshop.html
+
 # IEEE EESTEC EVENT
 This repo is created for eestec event. 
   
